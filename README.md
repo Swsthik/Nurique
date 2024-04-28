@@ -7,7 +7,7 @@ Another inspiration is that the problem statement really exists and is not given
 
 We have churned out innovative multisensory games and activities to improve the condition of the user in a gradual and personalized way based on test and.</h3>
 
-<h2>What is Nuriquw?</h2>
+<h2>What is Nurique?</h2>
 
 Nurique is an innovative project that revolutionizes the training, and assessment of dyslexic patients (dementia, RSI, ). It would act as a go-to for the patients for daily personal training.
 
