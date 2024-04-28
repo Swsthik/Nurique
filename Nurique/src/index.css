@@ -1,0 +1,9 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-stroke {
+  -webkit-text-stroke: 1px black; /* Webkit browsers (Chrome, Safari) */
+  text-shadow: -2px -3px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
+} 
